@@ -20,16 +20,16 @@ STEP 1: DONE
 STEP 2: DONE
   Make the color of the text be crimson if the length of 'inputValue' goes over ten.
 
-STEP 3: DONE?
+STEP 3: DONE
   Interpolate the value of the input inside this <div />. How can we make it show in ALL CAPS?
 
-STEP 4: DONE?
+STEP 4: DONE
   Set the value of the input -found inside the event object- into state.
 
 STEP 5:DONE
   Set the input value in state to be empty string. The reset still won't work, though! See the next step.
 
-STEP 6: done?
+STEP 6: done
   For the input to reset correctly, it needs to "drink" its value from state!
   We need to add an extra prop to the <input /> element like so: value={inputValue}
 */

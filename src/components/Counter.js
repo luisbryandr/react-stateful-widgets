@@ -54,23 +54,20 @@ export default function Counter() {
   const increment = () => {
     /* STEP 4 */
     setCount(count + 1)
-    return count
   };
   const decrement = () => {
     /* STEP 5 */
     setCount(count - 1)
-    return count 
   };
   const reset = () => {
     /* STEP 6 */
     setCount(0)
-    
   };
 
   const style = {
     fontSize: '1.5em',
     marginBottom: '0.3em',
-    color: count%2==0?'royalblue':'crimson' /* STEP 2 */
+    color: count % 2 === 0?'royalblue':'crimson' /* STEP 2 */
       
 
    
