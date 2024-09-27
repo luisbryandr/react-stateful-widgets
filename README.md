@@ -36,7 +36,7 @@ This project includes a `src/components` folder containing several React compone
 
 #### Steps
 
-- [ ] You will add functionality to all components inside inside `src/components`.
+- [] You will add functionality to all components inside inside `src/components`.
 - [ ] Work on the components **in the same order in which they display in Chrome** (to go from easiest challenge to hardest).
 - [ ] Each file includes a link to a video, and a set of instructions which can be summarized as:
   - Watch the video demoing the finished component, and think about how much state is needed.
